@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/max33nau/nodeWeek1LongReading/issues"
   },
-  "homepage": "https://github.com/max33nau/nodeWeek1LongReading#readme"
+  "homepage": "https://github.com/max33nau/nodeWeek1LongReading#readme",
+  "devDependencies": {
+    "formidable": "^1.0.17"
+  }
 }
