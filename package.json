@@ -1,0 +1,19 @@
+{
+  "name": "nodebeginner",
+  "version": "1.0.0",
+  "description": "Node Beginer",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/max33nau/nodeWeek1LongReading.git"
+  },
+  "author": "Max Jacobsen",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/max33nau/nodeWeek1LongReading/issues"
+  },
+  "homepage": "https://github.com/max33nau/nodeWeek1LongReading#readme"
+}
