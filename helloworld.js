@@ -1,6 +1,6 @@
 console.log('hello world');
 
-// Padding functions arround
+// Padding functions around
 function say(word) {
   console.log(word);
 }
